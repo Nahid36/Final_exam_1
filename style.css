@@ -1,0 +1,152 @@
+body{
+	/*border:1px solid red;*/
+	/*margin:0 auto;*/
+	
+}
+.full_body{
+	width: 960px;
+	margin:0 auto;
+}
+.toper{
+	/*border:1px solid green;*/
+	width: 100%;
+	display: inline-block;
+
+}
+.logo{
+	/*border:1px solid blue;*/
+	display: inline-block;
+	width: 45%;
+	float: left;
+
+}
+.logo img{
+	/*border:1px solid red;*/
+	margin:30px 2px;
+	float: left;
+
+
+}
+.logo h3{
+	/*border:1px solid blue;*/
+	width: 50%;
+	float: right;
+	margin:-78px 140px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+}
+.sotials{
+	/*border:1px solid blue;*/
+	width: 45%;
+	float: right;
+	margin: 40px 20px;
+}
+.header{
+	/*border:1px solid red;*/
+	width: 100%;
+	margin:10px 10px;
+}
+.menu{
+	/*border:1px solid red;*/
+	margin:5px 5px;
+}
+.menu ul li{
+	/*border:1px solid blue;*/
+	list-style: none;
+	display: inline-block;
+	margin: 10px 5px;
+	padding: 5px 5px;
+	text-transform: uppercase;
+
+}
+.slider{
+	/*position: relative;*/
+
+}
+.slider img_1{
+	width: 100%;
+	/*position: absolute;*/
+}
+.img_1{
+	border:1px solid red;
+	width: 50%;
+
+	
+}
+.img_2{
+	border:1px solid blue;
+	width: 100%;
+	/*position: absolute;*/
+}
+.content h3{
+	/*border:1px solid red;*/
+	margin:0 auto;
+	width: 60%;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	padding-top: 20px;
+}
+.content h4{
+	/*border:1px solid blue;*/
+	margin:16px 390px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	width: 20%;
+	padding: 14px;
+	background-color: green;
+
+}
+.lower_content{
+	border:1px solid red;
+	width: 100%;
+	overflow: hidden;
+	display: inline-block;
+	background-color: black;
+	}
+
+.lower_content h2{
+	width: 50%;
+	float: left;
+	text-transform: uppercase;
+	color: white;
+}
+.lower_content a{
+	width: 25%;
+	float: right;
+	margin:24px 0px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	background-color: green;
+	color: white;
+}
+
+.foter{
+	/*border:1px solid blue;*/
+}
+.foter h6{
+	width: 45%;
+	float: left;
+
+}	
+
+}	
+.menu_2 h6 ul li{
+	/*border:1px solid red;*/
+	list-style: none;
+	width: 50%;
+	display: inline-block;
+	float: right;
+
+}
+
+.img_2 {
+	background: url(image/bg.png);
+	width: 100%;
+
+}
+
+.menu_2 ul 
+.menu_2 ul li {
+	list-style: none;
+	display: inline-block;
+}
